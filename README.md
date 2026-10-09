@@ -13,6 +13,7 @@ Make these accounts ahead of time (please don't wait until the day itself):
 - [ ] A **personal Gmail** account. School accounts may block AI Studio.
 - [ ] A **GitHub** account at [github.com](https://github.com)
 - [ ] A **Railway** account at [railway.com](https://railway.com). Sign in with GitHub.
+- [ ] *(Backup, just in case)* A free **Replit** account at [replit.com](https://replit.com). Use your personal email.
 
 ## Step 1: Fork this repo
 
@@ -48,6 +49,24 @@ Click **Sync to GitHub**. The first time, choose **Force push to <your-repo>**. 
 4. Open the link. Your website is live! 🎉
 
 From now on, every time you sync from AI Studio, Railway updates your site automatically.
+
+## Backup: Replit
+
+Only use this if your facilitator tells you to, for example if AI Studio isn't working on the day. Replit has the editor, the AI, and hosting in one place, so you skip GitHub syncing and Railway.
+
+> **Draft:** These steps haven't been fully tested yet.
+
+1. Sign in to [replit.com](https://replit.com).
+2. Click **Create App** (or **Import**), choose **Import from GitHub**, and paste the link to your fork.
+3. If the app doesn't start, ask Replit's Agent: *"Set this project up so `npm run dev` runs the website."*
+4. Vibe code with the same prompts from Step 3 above.
+5. Click **Publish** to put your site online.
+
+**Free plan limits to keep in mind:**
+
+- You only get **a few AI prompts per day**. Put several changes in one prompt, like *"Change the business to Boba Bay, make the colors pastel, and add a pricing section."*
+- You get **one published app**, and it goes offline after 30 days.
+- The same [limitations](#limitations) of this project apply.
 
 ## How this project works
 
