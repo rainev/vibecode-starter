@@ -1,0 +1,30 @@
+{
+  "business": {
+    "name": "Kape Kanto",
+    "tagline": "Specialty coffee from the corner of your street.",
+    "description": "We brew locally sourced Philippine beans for students and workers on the go. Fast, affordable, and always fresh.",
+    "ctaText": "See Our Menu"
+  },
+  "features": [
+    {
+      "icon": "☕",
+      "title": "Local Beans",
+      "text": "Sourced from farms in Benguet, Batangas, and Sagada."
+    },
+    {
+      "icon": "⚡",
+      "title": "Ready in 3 Minutes",
+      "text": "Order ahead and skip the line between classes."
+    },
+    {
+      "icon": "💸",
+      "title": "Student Prices",
+      "text": "Great coffee that won't eat your whole allowance."
+    }
+  ],
+  "contact": {
+    "email": "hello@kapekanto.ph",
+    "phone": "+63 912 345 6789",
+    "address": "Taft Avenue, Manila"
+  }
+}

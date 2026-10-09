@@ -1,0 +1,5 @@
+{
+  "name": "Vibecode Starter",
+  "description": "A starter business website for the Technopreneurship vibe coding workshop. Edit src/data/business.json to make it yours.",
+  "requestFramePermissions": []
+}
